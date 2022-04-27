@@ -78,6 +78,5 @@
     "pretty-quick": "^3.1.0",
     "source-map-explorer": "^2.5.2",
     "yarn-audit-fix": "^9.2.2"
-  },
-  "packageManager": "yarn@3.2.0"
+  }
 }
