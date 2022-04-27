@@ -2,7 +2,7 @@
   "name": "klamath",
   "version": "0.1.0",
   "engines": {
-    "node": "16",
+    "node": "17",
     "yarn": "3.2.0"
   },
   "dependencies": {
